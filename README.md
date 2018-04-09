@@ -1,1 +1,1 @@
-# scs3250-data-science-project
+# UofT SCS3250 Data Science Project
